@@ -1,6 +1,6 @@
 {
-  "name": "Haruka-Md",
-  "version": "11.0.1",
+  "name": "Man-Md",
+  "version": "0.0.1",
   "description": "whatsapp tob with multi device.",
   "main": "haruka.js",
   "directories": {
@@ -15,7 +15,7 @@
     "2022",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Firmanzz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys@^6.0.9",
